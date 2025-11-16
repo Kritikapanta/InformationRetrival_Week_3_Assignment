@@ -1,0 +1,160 @@
+
+Query: social crimes in Nepal
+============================================================
+Rank 1: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.4799
+Rank 2: Social crimes are rising across the country, says police.txt  |  Similarity = 0.2917
+Rank 3: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.2831
+Rank 4: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0434
+Rank 5: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: wildlife attacks on highways
+============================================================
+Rank 1: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.3296
+Rank 2: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0177
+Rank 3: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0000
+Rank 4: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+Rank 5: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0000
+Rank 6: Social crimes are rising across the country, says police.txt  |  Similarity = 0.0000
+
+
+Query: rise in suicide cases
+============================================================
+Rank 1: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.3592
+Rank 2: Social crimes are rising across the country, says police.txt  |  Similarity = 0.2846
+Rank 3: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.2516
+Rank 4: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.1255
+Rank 5: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0089
+Rank 6: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+
+
+Query: elephant attacks and highway safety
+============================================================
+Rank 1: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.5385
+Rank 2: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0151
+Rank 3: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0000
+Rank 4: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+Rank 5: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0000
+Rank 6: Social crimes are rising across the country, says police.txt  |  Similarity = 0.0000
+
+
+Query: drug abuse and narcotics cases
+============================================================
+Rank 1: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.2099
+Rank 2: Social crimes are rising across the country, says police.txt  |  Similarity = 0.2057
+Rank 3: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.1178
+Rank 4: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0690
+Rank 5: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: Apple M5 AI performance
+============================================================
+Rank 1: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.5702
+Rank 2: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0000
+Rank 3: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0000
+Rank 4: Social crimes are rising across the country, says police.txt  |  Similarity = 0.0000
+Rank 5: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0000
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: police awareness programs
+============================================================
+Rank 1: Social crimes are rising across the country, says police.txt  |  Similarity = 0.2194
+Rank 2: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.2024
+Rank 3: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.1684
+Rank 4: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0250
+Rank 5: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0102
+Rank 6: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+
+
+Query: increase in criminal cases in Kathmandu
+============================================================
+Rank 1: Social crimes are rising across the country, says police.txt  |  Similarity = 0.3599
+Rank 2: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.2632
+Rank 3: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.2569
+Rank 4: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.1620
+Rank 5: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0206
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: ray tracing and graphics in M5
+============================================================
+Rank 1: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.1104
+Rank 2: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0000
+Rank 3: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0000
+Rank 4: Social crimes are rising across the country, says police.txt  |  Similarity = 0.0000
+Rank 5: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0000
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: rise in bank fraud incidents
+============================================================
+Rank 1: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0664
+Rank 2: Social crimes are rising across the country, says police.txt  |  Similarity = 0.0576
+Rank 3: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0291
+Rank 4: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0270
+Rank 5: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0096
+Rank 6: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+
+
+Query: attempt to murder cases Nepal
+============================================================
+Rank 1: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.3421
+Rank 2: Social crimes are rising across the country, says police.txt  |  Similarity = 0.3305
+Rank 3: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.1982
+Rank 4: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0742
+Rank 5: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: rape and sexual violence statistics
+============================================================
+Rank 1: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.2151
+Rank 2: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0585
+Rank 3: Social crimes are rising across the country, says police.txt  |  Similarity = 0.0212
+Rank 4: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+Rank 5: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0000
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: polygamy crime cases in Nepal
+============================================================
+Rank 1: Social crimes are rising across the country, says police.txt  |  Similarity = 0.3800
+Rank 2: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.2937
+Rank 3: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.2814
+Rank 4: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.2398
+Rank 5: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: human wildlife conflict in Nepal
+============================================================
+Rank 1: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0999
+Rank 2: Social crimes are rising across the country, says police.txt  |  Similarity = 0.0500
+Rank 3: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0453
+Rank 4: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0327
+Rank 5: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0087
+Rank 6: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+
+
+Query: forensic investigation Nepal
+============================================================
+Rank 1: Social crimes are rising across the country, says police.txt  |  Similarity = 0.1385
+Rank 2: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0554
+Rank 3: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0242
+Rank 4: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0107
+Rank 5: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+Rank 6: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0000
+
+
+Query: road accident deaths in Nepal
+============================================================
+Rank 1: Social crimes are rising across the country, says police.txt  |  Similarity = 0.1118
+Rank 2: Incidents of social crime rise to 162 a day in Nepal.txt  |  Similarity = 0.0480
+Rank 3: Wildlife risks grow along forested Rautahat highways.txt  |  Similarity = 0.0336
+Rank 4: Social crimes on the rise, but hard to intercept, police say.txt  |  Similarity = 0.0092
+Rank 5: 336 Cases of Violence against Women and Girls Committed During Lockdown.txt  |  Similarity = 0.0072
+Rank 6: Apple unleashes M5, the next big leap in AI performance for Apple silicon.txt  |  Similarity = 0.0000
+
